@@ -465,14 +465,6 @@ Built with:
 
 ---
 
-## 📞 Contact
-
-For technical support or questions:
-- **Email**: tech@saylani.org.pk
-- **Phone**: +92-XXX-XXXXXXX
-
----
-
 ## 🎉 Quick Reference
 
 ### First Time Setup
